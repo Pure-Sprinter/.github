@@ -1,7 +1,7 @@
 # Pure Sprinter
 
 - This is personal organization for record of personal materials through studying development 
-- The purpose of this project is for make **Learning-Curve more faster**
+- The purpose of this project is for make **Learning-Curve More Faster**
 
 ## What is Pure?
 
